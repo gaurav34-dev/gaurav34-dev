@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Gaurav Baser  
-**Full-Stack Developer | Cloud & DevOps Enthusiast | Ex-SAS Institute**  
+**Full-Stack Developer | Cloud & DevOps Enthusiast 
 
 💼 **Open to Roles**: Full-time positions starting March 2025 (Remote/Hybrid/Onsite)  
 📚 **Education**: MS in Computer Science @ UMBC | GPA: 3.71  
