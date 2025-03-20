@@ -10,7 +10,7 @@
 |---------|------------|------------|  
 | [Event Management System](https://github.com/gaurav34-dev/Event-Management-System) | PHP, SQL, Bootstrap | Password hashing, dynamic filtering, SQL optimization |  
 | [Fitness Tracker](https://github.com/gaurav34-dev/fitness-project)| React Native, Tailwind CSS | Real-time workout metrics, REST API integration |  
-| [SAS Viya Security Updates] | Golang, React | 10%+ test coverage increase, critical bug fixes |  
+| [SAS Viya Required Updates] | Golang, React | 10%+ test coverage increase, critical bug fixes |  
 
 ### 💻 **Work Experience**  
 - **SAS Institute**: Full-Stack Developer (Golang/React)  
