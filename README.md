@@ -49,8 +49,3 @@
 - **Agile Advocate**: Led sprint planning at SAS Institute  
 - **Documentation**: Authored SAS Viya 3.5 security guides  
 
-## 🔍 Seeking Opportunities  
-- **Start Date**: March 2025  
-- **Roles**: Full-Stack Developer, Cloud Engineer  
-- **Location**: Remote/Hybrid (Open to relocation) 
-
